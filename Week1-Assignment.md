@@ -67,4 +67,15 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
    - A screenshot of your MongoDB Compass or Atlas showing your collections and sample data
 4. Commit and push your changes to GitHub
 5. Your submission will be automatically graded based on the criteria in the autograding configuration
-6. The instructor will review your submission after the autograding is complete 
+6. The instructor will review your submission after the autograding is complete
+
+## Resources
+- [MongoDB Documentation](https://docs.mongodb.com/)
+- [MongoDB University](https://university.mongodb.com/)
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+
+## Grading Criteria
+- Correctness of queries (40%)
+- Code organization and comments (20%)
+- Proper use of MongoDB features (20%)
+- Documentation and setup instructions (20%) 
